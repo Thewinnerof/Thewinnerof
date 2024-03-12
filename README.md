@@ -1,14 +1,10 @@
 ## 🤺 About Me
-
-[Vue](https://github.com/vuejs) & [VueUse](https://github.com/vueuse) team member
-
 - 👋 Hi, I'm **Anthony Ming**, an ordinary frontend programmer who enjoys exploring various exciting things, sharing knowledge, and engaging in discussions. 
 - Every bug is an opportunity for you to become a better developer. Don't be afraid of making mistakes; instead, learn from them and extract valuable lessons.
 
 ## 🤾‍♂️ My Open Source Projects
 
-- [vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - A draggable component compatible with both Vue 2 and Vue 3. It supports features such as drag-and-drop sorting, copying, deleting, adding, moving, animations, and event handling.
-- [v-scale-screen](https://github.com/Alfred-Skyblue/v-scale-screen) - A responsive solution for large screens compatible with Vue 2 and Vue 3. It offers customization options for scaling ratio, scaling center, scaling animations, animation duration, and animation curves.
+- [vue-personalsite-offer](https://ming.lijiaming32.cn/#/aboutme) - Based on the latest front-end technology stack Vue3 TypeScript5.2 Vite5, using the latest technology stack CSS framework - TailwindCSS, due to its advantages of long-term maintenance and easy development, it has been greatly improved in company projects. Therefore, it was used to develop a personal online resume project.
 
 ## 🛠 Technology Stack
 
