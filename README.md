@@ -4,7 +4,7 @@
 
 ## 🤾‍♂️ My Open Source Projects
 
-- [vue-personalsite-offer](https://ming.lijiaming32.cn/#/aboutme) - Based on the latest front-end technology stack Vue3 TypeScript5.2 Vite5, using the latest technology stack CSS framework - TailwindCSS, due to its advantages of long-term maintenance and easy development, it has been greatly improved in company projects. Therefore, it was used to develop a personal online resume project.
+- [vue-personalsite-offer](https://ming.lijiaming32.cn/#/aboutme) - Based on the latest front-end technology stack Vue3 TypeScript5.2 Vite5, using the latest technology stack CSS framework - TailwindCSS, due to its advantages of long-term maintenance and easy development, it has been greatly improved in company projects. Therefore, it was used to develop a personal online resume project
 
 ## 🛠 Technology Stack
 
