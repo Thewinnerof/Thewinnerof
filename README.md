@@ -16,8 +16,6 @@
 
 ## ☎️ Contact Me
 
-- <img height="10" src="https://api.iconify.design/fxemoji:email.svg"> [Email](mailto:1020343877@qq.com)
-- VX: Ct_dream32 (备注GitHub)
 
 <img src="./assets/wechat.jpg" width="200" style="margin-bottom: 30px"/>
 
