@@ -23,6 +23,6 @@
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Thewinnerof&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfred-Skyblue&theme=transparent&layout=compact"> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thewinnerof&theme=transparent&layout=compact"> </div>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Alfred-Skyblue&theme=tokyonight&no-bg=true" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Thewinnerof&theme=tokyonight&no-bg=true" /> </div>
